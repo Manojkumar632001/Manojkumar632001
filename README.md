@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="animated" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">I specialize in turning ideas into exciting online experiences, leveraging my skills in full-stack development and diverse programming languages.</h3>
 <h3> </h3>
