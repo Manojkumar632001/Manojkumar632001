@@ -71,5 +71,5 @@ Advanced AWS Services.
 
 ## 🌐 Stay Connected
 
-- **LinkedIn:** [Manoj K Balla](https://www.linkedin.com/in/manoj6321/)
-- **Email:** manojkumarb63200@gmail.com
+- **LinkedIn:** [Manoj K Balla](https://www.linkedin.com/in/manojk6321/)
+- **Email:** bmanojkumar.work@gmail.com
